@@ -1,0 +1,5 @@
+// Problem: 2094A - Trippi Troppi
+// URL: https://codeforces.com/problemset/problem/2094/A
+// Date: 2025-04-13
+// Language: Node.js
+// Submission: https://codeforces.com/contest/2094/submission/315426102
