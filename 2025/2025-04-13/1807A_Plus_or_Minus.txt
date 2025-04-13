@@ -1,0 +1,5 @@
+// Problem: 1807A - Plus or Minus
+// URL: https://codeforces.com/problemset/problem/1807/A
+// Date: 2025-04-13
+// Language: Node.js
+// Submission: https://codeforces.com/contest/1807/submission/315267792
